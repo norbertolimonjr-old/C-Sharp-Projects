@@ -1,0 +1,5 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\Norberto\source\repos\CppCLR_WinformsProjekt1\Form1.h(32,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Norberto\source\repos\CppCLR_WinformsProjekt1\Form1.h(181,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CppCLR_WinformsProjekt1.vcxproj -> C:\Users\Norberto\source\repos\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.exe
